@@ -1,4 +1,4 @@
-package AMCEInsurance.AMCEUserService;
+package AMCEInsurance.AMCEUserService.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

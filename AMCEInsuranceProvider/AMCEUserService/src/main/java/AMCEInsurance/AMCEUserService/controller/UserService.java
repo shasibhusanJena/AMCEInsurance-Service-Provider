@@ -13,6 +13,11 @@ import AMCEInsurance.AMCEUserService.service.HelloService;
 public class UserService {
 	
 
+    @GetMapping("/")
+    public String home() {
+        return "Hello, World!";
+    }
+    
 	@GetMapping(value = "/hi")
 	public ResponseEntity<String> getHelloMethod(){
 		return new ResponseEntity<>(new HelloService().getHelloMsg(), HttpStatus.OK );
