@@ -1,0 +1,5 @@
+# Created at 2025-05-17T22:17:17.776
+Boot Manifest-JAR contains absolute paths in classpath 'F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
