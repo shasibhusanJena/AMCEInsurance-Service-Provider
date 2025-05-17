@@ -16,6 +16,7 @@
 		<module>AMCEUserService</module>
 		<module>AMCEPaymentService</module>
 		<module>AMCEReportingService</module>
+		<module>AMCEClaimService</module>
 	</modules>
 	<packaging>pom</packaging>
 
