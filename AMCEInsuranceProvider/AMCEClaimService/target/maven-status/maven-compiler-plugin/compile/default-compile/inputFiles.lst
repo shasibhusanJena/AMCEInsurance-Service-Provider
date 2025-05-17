@@ -1,1 +1,6 @@
-F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AmceClaimServiceApplication.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\app\AmceClaimServiceApplication.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\config\AsyncConfig.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\controller\ClaimController.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\model\ClaimRequest.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\service\ClaimService.java
+F:\New folder (3)\AMCEInsurance-Service-Provider\AMCEInsuranceProvider\AMCEClaimService\src\main\java\AMCEInsurance\AMCEClaimService\service\FraudCheckService.java
