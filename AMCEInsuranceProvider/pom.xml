@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>AMCEInsuranceProvider</name>
 	<description>AMCE Insurance Provider for Spring application </description>
+	
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -15,6 +16,7 @@
 		<module>AMCEUserService</module>
 		<module>AMCEPaymentService</module>
 		<module>AMCEReportingService</module>
+		<module>AMCEClaimService</module>
 	</modules>
 	<packaging>pom</packaging>
 
